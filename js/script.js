@@ -30,3 +30,8 @@ let peoplesTeam = [
         img: "barbara-ramos-graphic-designer.jpg"
     } 
 ]
+
+for (let i = 0; i < peoplesTeam.length; i++) {
+    console.log(peoplesTeam[i]);
+    
+}
